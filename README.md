@@ -28,8 +28,8 @@ Um gerador de senhas moderno e seguro desenvolvido com Next.js, React e TypeScri
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/gerador-senha.git
-cd gerador-senha
+git clone git@github.com:pepcmarques/geradorsenha.git
+cd geradorsenha
 ```
 
 2. Instale as dependências:
@@ -140,7 +140,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Suporte
 
-Se você encontrar algum problema ou tiver sugestões, por favor abra uma [issue](https://github.com/seu-usuario/gerador-senha/issues).
+Se você encontrar algum problema ou tiver sugestões, por favor abra uma [issue](https://github.com/pepcmarques/geradorsenha/issues).
 
 ---
 
