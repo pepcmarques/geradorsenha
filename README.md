@@ -145,3 +145,8 @@ Se você encontrar algum problema ou tiver sugestões, por favor abra uma [issue
 ---
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
+
+## 🌐 Versões de Idioma
+
+- [Português (Portuguese)](README.md)
+- [English](README.en.md)
